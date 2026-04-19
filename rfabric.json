@@ -6,14 +6,14 @@
             "bin": [
                 "rfabric.exe"
             ],
-            "hash": "5a5f16b2e665c96cbd40f89a6ba24ca648f42d7b78f20ff6245d2644be12f450"
+            "hash": "c2a210ad94031815da8af78f77c72bd4111c5dfa07d626021ad0fa12dfc41d23"
         },
         "arm64": {
             "url": "https://github.com/rfabric/cli/releases/download/v0.0.1/rfabric_0.0.1_windows_arm64.zip",
             "bin": [
                 "rfabric.exe"
             ],
-            "hash": "37ed3beb63b11d4669400a578ba358a26ae6791ab6baeef58143526666dfa5ce"
+            "hash": "8c08fa73d2d31655c2caf1fe2e0081461b0c36efb2017eca777fafb44720eb1b"
         }
     },
     "homepage": "https://rfabric.io",
