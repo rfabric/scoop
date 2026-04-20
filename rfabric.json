@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rfabric/cli/releases/download/v0.0.2/rfabric_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/rfabric/cli/releases/download/v0.0.3/rfabric_0.0.3_windows_amd64.zip",
             "bin": [
                 "rfabric.exe"
             ],
-            "hash": "cf1a30238d109f9a3b2b5e88d74b1f45bed785da80aaf58bd1651662f9f4b2d6"
+            "hash": "8a8bc27067db0b421591678cd649e9c208bc5842f26136606250846fce242ba7"
         },
         "arm64": {
-            "url": "https://github.com/rfabric/cli/releases/download/v0.0.2/rfabric_0.0.2_windows_arm64.zip",
+            "url": "https://github.com/rfabric/cli/releases/download/v0.0.3/rfabric_0.0.3_windows_arm64.zip",
             "bin": [
                 "rfabric.exe"
             ],
-            "hash": "9dbdf031d6eb8e43772ad5679b943cb9da4071c8414ef1df468331f2dc655a99"
+            "hash": "46f909932e732063796f345a62d4ba6f707a47a0ea98dee6e7367fab92ba0c99"
         }
     },
     "homepage": "https://rfabric.io",
